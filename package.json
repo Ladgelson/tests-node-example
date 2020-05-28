@@ -1,0 +1,27 @@
+{
+  "name": "tests-node-example",
+  "version": "1.0.0",
+  "description": "Example of tests with Mocha in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladgelson/tests-node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladgelson/tests-node-example/issues"
+  },
+  "homepage": "https://github.com/Ladgelson/tests-node-example#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nock": "^12.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
